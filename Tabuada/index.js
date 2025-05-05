@@ -7,7 +7,7 @@ for (let i = 1; i <= 10; i++){ //Aqui será armazenado a contagem que mostrará 
 }
 
 if (isNaN(numero) || numero<0){ //Verifica se o usuário digitou um número válido.
-    alert("Você não digitou um número válido, por favoro tente novamente.")  
+    alert("Você não digitou um número válido, por favor tente novamente.")  
 } else {
     
     alert(tabuada); 
